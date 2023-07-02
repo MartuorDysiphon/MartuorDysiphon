@@ -6,7 +6,7 @@ a deep passion for designing pulchritudinous websites and creating innovative
 projects. At the age of 21, I am a university student, eager to explore and make
 my mark in the world of technology.
 
-/*______________________Background_______________________________________________*/
+//______________________Background_______________________________________________
 
 Coming from a diverse cultural background, I have developed a unique perspective on
 design and innovation. Growing up in South Africa, I have witnessed the transformative
@@ -14,7 +14,7 @@ power of technology in creating visually stunning and user-friendly interfaces. 
 experience has ignited my passion for design and motivated me to pursue a career that
 merges creativity with cutting-edge technology.
 
-<!----__________________Academic Journey__________________________________________________________________________________----->
+//__________________Academic Journey_________________________________________________________________________________
 
 Currently, I am enrolled in an Information Technology degree program, where I am actively advancing my skills in various domains.
 I have a keen focus on web development, software development, computer networking, cybersecurity, technicalities, and robotics.
@@ -60,13 +60,13 @@ new tools and techniques, and experimenting with different color palettes and la
 technical knowledge with my eye for aesthetics, I strive to create visually appealing and intuitive interfaces
 that leave a lasting impression.
 
-/*__________________________Open Source Contributions________________________________________________________________*/
+//__________________________Open Source Contributions________________________________________________________________
 
 I firmly believe in the power of collaboration and the spirit of open source. I actively contribute to open-source
 projects, sharing my expertise and leveraging the collective intelligence of the community. Through these contributions,
 I aim to not only enhance my design skills but also contribute to the growth and improvement of the wider design and development community.
 
-<!----________________________Goals and Aspirations________________________________________________________--->
+//________________________Goals and Aspirations________________________________________________________
 
 Looking ahead, my primary goal is to create innovative projects that blend cutting-edge technology with visually stunning designs.
 I aspire to work on projects that have a positive impact on people's lives, whether it's through improving user experiences, solving 
